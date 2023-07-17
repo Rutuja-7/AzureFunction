@@ -1,0 +1,37 @@
+{
+    "sensorType": "t",
+    "pressure": "t",
+    "temperature": "t",
+    "supplyVoltageLevel": "t",
+    "accuracy": "t"
+  }{
+    "sensorType": "t",
+    "pressure": "t",
+    "temperature": "t",
+    "supplyVoltageLevel": "t",
+    "accuracy": "10"
+  }{
+    "sensorType": "t",
+    "pressure": "t",
+    "temperature": "t",
+    "supplyVoltageLevel": "t",
+    "accuracy": "10"
+}{
+    "sensorType": "t",
+    "pressure": "t",
+    "temperature": "10",
+    "supplyVoltageLevel": "t",
+    "accuracy": "10"
+}{
+    "sensorType": "t1",
+    "pressure": "t",
+    "temperature": "10",
+    "supplyVoltageLevel": "t",
+    "accuracy": "10"
+}{
+    "sensorType": "t1",
+    "pressure": "t",
+    "temperature": "20",
+    "supplyVoltageLevel": "t",
+    "accuracy": "10"
+}

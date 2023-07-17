@@ -1,0 +1,14 @@
+
+{
+    "sensorType": "demo",
+    "pressure": "demo",
+    "temperature": "20",
+    "supplyVoltageLevel": "demo",
+    "accuracy": "demo"
+}{
+    "sensorType": "demo",
+    "pressure": "demo",
+    "temperature": "100",
+    "supplyVoltageLevel": "demo",
+    "accuracy": "demo"
+}

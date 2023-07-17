@@ -1,0 +1,25 @@
+{
+    "SensorType": "test1",
+    "Pressure": "6V",
+    "Temperature": "100",
+    "SupplyVoltageLevel": "66V",
+    "Accuracy": "10"
+}{
+    "SensorType": "test1",
+    "Pressure": "6V",
+    "Temperature": "10",
+    "SupplyVoltageLevel": "66V",
+    "Accuracy": "10"
+}{
+    "SensorType": "test1",
+    "Pressure": "6V",
+    "Temperature": "20",
+    "SupplyVoltageLevel": "66V",
+    "Accuracy": "10"
+}{
+    "SensorType": "test2",
+    "Pressure": "6V",
+    "Temperature": "20",
+    "SupplyVoltageLevel": "66V",
+    "Accuracy": "10"
+}

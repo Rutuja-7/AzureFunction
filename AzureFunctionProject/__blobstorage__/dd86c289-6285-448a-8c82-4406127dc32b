@@ -1,0 +1,43 @@
+{
+    "sensorType": "testType2",
+    "pressure": "50Pa",
+    "temperature": "10",
+    "supplyVoltageLevel": "45V",
+    "accuracy": "50%"
+}{
+    "sensorType": "testType2",
+    "pressure": "50Pa",
+    "temperature": "100",
+    "supplyVoltageLevel": "45V",
+    "accuracy": "50%"
+}{
+    "sensorType": "testType2",
+    "pressure": "50Pa",
+    "temperature": "101",
+    "supplyVoltageLevel": "45V",
+    "accuracy": "50%"
+}{
+    "sensorType": "testType2",
+    "pressure": "50Pa",
+    "temperature": "100",
+    "supplyVoltageLevel": "45V",
+    "accuracy": "50%"
+}{
+    "sensorType": "testType2",
+    "pressure": "50Pa",
+    "temperature": "10",
+    "supplyVoltageLevel": "45V",
+    "accuracy": "50%"
+}{
+    "sensorType": "testType2",
+    "pressure": "50Pa",
+    "temperature": "10",
+    "supplyVoltageLevel": "45V",
+    "accuracy": "50%"
+}{
+    "sensorType": "testType2",
+    "pressure": "50Pa",
+    "temperature": "10",
+    "supplyVoltageLevel": "45V",
+    "accuracy": "50%"
+}

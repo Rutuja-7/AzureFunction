@@ -1,0 +1,7 @@
+{
+    "sensorType": "t1",
+    "pressure": "t",
+    "temperature": "20",
+    "supplyVoltageLevel": "t",
+    "accuracy": "10"
+}
